@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-![image](https://github.com/Sreevalsan-V/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/152585309/74b06c12-c941-4280-ac5e-3ccf57d21159)
+![image](https://github.com/Sreevalsan-V/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/152585309/99068372-e3de-4fe1-af60-9a96f63e61d2)
 
 
  
